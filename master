@@ -1,0 +1,21 @@
+<card xmlns="http://payment.services.adyen.com">
+    <cvc>483</cvc> // Use padding zeroes as necessary before the 1- or 2-digit CVC-CVV code you want to test
+    <expiryMonth>05</expiryMonth>
+    <expiryYear>2018</expiryYear>
+    <holderName>Yuri Ardianto Test</holderName>
+    <number>5436780003946308</number> // Use a test card number that has a CVC number
+</card>
+<card xmlns="http://payment.services.adyen.com">
+    <cvc>483</cvc> // Use padding zeroes as necessary before the 1- or 2-digit CVC-CVV code you want to test
+    <expiryMonth>05</expiryMonth>
+    <expiryYear>2018</expiryYear>
+    <holderName>Yuri Ardianto Test</holderName>
+    <number>5436780003946308</number> // Use a test card number that has a CVC number
+</card>
+<card xmlns="http://payment.services.adyen.com">
+    <cvc>483</cvc> // Use padding zeroes as necessary before the 1- or 2-digit CVC-CVV code you want to test
+    <expiryMonth>05</expiryMonth>
+    <expiryYear>2018</expiryYear>
+    <holderName>Yuri Ardianto Test</holderName>
+    <number>5436780003946308</number> // Use a test card number that has a CVC number
+</card>
